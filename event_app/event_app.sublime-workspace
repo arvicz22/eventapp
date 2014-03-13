@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Even",
+				"EventsAdmin"
+			],
+			[
+				"ren",
+				"render_to_response"
+			],
+			[
+				"Testimon",
+				"TestimonialForm"
+			],
+			[
+				"frs",
+				"first_name"
+			],
+			[
+				"testimon",
+				"testimonial"
+			],
+			[
+				"Test",
+				"TestimonialModel"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"name",
+				"name='logout"
+			],
+			[
+				"pa",
+				"password=password"
+			],
+			[
+				"create",
+				"createaccount"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"get",
+				"getCpuContext"
+			],
+			[
+				"end",
+				"end_context"
+			],
+			[
+				"add",
+				"add_to_lock_queue"
+			],
+			[
+				"my_",
+				"my_context"
+			],
+			[
+				"swap",
+				"swapcontext"
+			],
+			[
+				"this",
+				"this_thread_impl"
+			],
+			[
+				"current",
+				"current_thread_impl"
+			],
+			[
+				"next",
+				"next_thread_impl"
+			],
+			[
+				"nex",
+				"next_impl"
+			],
+			[
+				"curren",
+				"current_thread_impl"
+			],
+			[
+				"rl",
+				"rl"
+			],
+			[
+				"rlim",
+				"rlim_cur"
+			],
+			[
+				"INPUT_",
+				"INPUT_FRAMES_PER_BLOCK"
+			],
+			[
+				"PHOTO_",
+				"PHOTO_INFORMATION"
+			],
+			[
+				"INS",
+				"INSTITUTION_NAME"
+			],
+			[
+				"COU",
+				"HOMETOWN_COUNTRY"
+			],
+			[
+				"USER",
+				"USER_INFORMATION"
+			],
+			[
+				"CURRENT",
+				"CURRENT_CITY"
+			],
+			[
+				"HOMET",
+				"HOMETOWN_STATE"
+			],
+			[
+				"HOMETOW",
+				"HOMETOWN_CITY"
+			],
+			[
+				"disk",
+				"diskLock"
+			],
+			[
+				"num",
+				"num_active_threads"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 5649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/event_share/views.py",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mysite/urls.py",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/event_share/forms.py",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/templates/create.html",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 3552,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/event_share/admin.py",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/event_share/models.py",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfto",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 257.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/eric/Desktop/event_app/src/mysite/urls.py",
+		"/home/eric/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/eric/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/eric/Desktop/event_app/src/event_share/forms.py",
+		"/home/eric/Desktop/djangoapp/skillshare/static/templates/bootply.css",
+		"/home/eric/Desktop/event_app/static/static/css/bootstrap.min.css",
+		"/home/eric/Desktop/event_app/src/event_share/templates/home.html",
+		"/home/eric/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eric/Desktop/event_app/src/event_share/views.py",
+		"/home/eric/Desktop/event_app/src/manage.py",
+		"/home/eric/Desktop/djangoapp/skillshare/src/db.sqlite3",
+		"/home/eric/Desktop/djangoapp/skillshare/src/mvp_landing/email_info.py",
+		"/home/eric/Desktop/djangoapp/skillshare/src/signups/migrations/0001_initial.py",
+		"/home/eric/Desktop/djangoapp/skillshare/src/signups/migrations/0007_initial.py",
+		"/home/eric/Desktop/djangoapp/skillshare/static/templates/signup.html",
+		"/home/eric/Desktop/djangoapp/skillshare/static/templates/signin.html",
+		"/home/eric/Desktop/djangoapp/skillshare/static/templates/services.html",
+		"/home/eric/Desktop/djangoapp/skillshare/src/signups/tests.py",
+		"/home/eric/.config/sublime-text-3/Packages/User/sftp_servers/umich",
+		"/home/eric/Desktop/skillshare/static/static/css/signin.css",
+		"/home/eric/Desktop/skillshare/static/static/css/jumbotron.css",
+		"/home/eric/Desktop/skillshare/static/static/css/custom.css",
+		"/home/eric/Desktop/skillshare/static/templates/loggedout.html",
+		"/home/eric/Desktop/skillshare/static/templates/services.html",
+		"/home/eric/Desktop/skillshare/static/templates/base.html",
+		"/home/eric/Desktop/skillshare/src/signups/models.py",
+		"/home/eric/Desktop/skillshare/static/templates/createaccount.html",
+		"/home/eric/Desktop/skillshare/static/templates/aboutus.html",
+		"/home/eric/Desktop/skillshare/static/templates/signup.html",
+		"/home/eric/Desktop/skillshare/static/templates/navbar.html",
+		"/home/eric/Desktop/skillshare/static/static-only/css/signin.css",
+		"/home/eric/Desktop/skillshare/src/mvp_landing/email_info.py",
+		"/home/eric/Desktop/skillshare/src/signups/forms.py",
+		"/home/eric/Desktop/skillshare/src/signups/admin.py",
+		"/home/eric/Desktop/skillshare/templates/signup.html",
+		"/home/eric/Desktop/skillshare/skillshare.komodoproject",
+		"/tmp/sublime-sftp-browse-1392759790/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/mutex_impl.h",
+		"/tmp/sublime-sftp-browse-1392759773/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/mutex.h",
+		"/tmp/sublime-sftp-browse-1392759759/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cv_impl.h",
+		"/tmp/sublime-sftp-browse-1392759745/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cv.h",
+		"/tmp/sublime-sftp-browse-1392759730/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu_impl.h",
+		"/tmp/sublime-sftp-browse-1392759717/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu.h",
+		"/tmp/sublime-sftp-browse-1392759738/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cv.cpp",
+		"/tmp/sublime-sftp-browse-1392762266/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread.cpp",
+		"/tmp/sublime-sftp-browse-1392759785/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/mutex_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392762280/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392759754/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cv_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392759764/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/mutex.cpp",
+		"/tmp/sublime-sftp-browse-1392759724/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392759696/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu.cpp",
+		"/tmp/sublime-sftp-browse-1392693940/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_join_1.cpp",
+		"/tmp/sublime-sftp-browse-1392694850/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_sample_given.cpp",
+		"/tmp/sublime-sftp-browse-1392692188/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_join_2.cpp",
+		"/tmp/sublime-sftp-browse-1392693693/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_unlocking_1.cpp",
+		"/tmp/sublime-sftp-browse-1392695061/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/Makefile",
+		"/tmp/sublime-sftp-browse-1392694096/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_memoryleaks.cpp",
+		"/tmp/sublime-sftp-browse-1392693958/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_join_2.cpp",
+		"/home/eric/Desktop/ranges.py",
+		"/home/eric/Desktop/mylevels.py",
+		"/tmp/sublime-sftp-browse-1392357655/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu.cpp",
+		"/tmp/sublime-sftp-browse-1392346819/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/helloworld_join.cpp",
+		"/tmp/sublime-sftp-browse-1392353037/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/Makefile",
+		"/tmp/sublime-sftp-browse-1392350790/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_join_2.cpp",
+		"/tmp/sublime-sftp-browse-1392356405/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/multi_cpu_test.cpp",
+		"/tmp/sublime-sftp-browse-1392398484/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/SUBMIT",
+		"/tmp/sublime-sftp-browse-1392357951/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread.cpp",
+		"/tmp/sublime-sftp-browse-1392358535/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu.h",
+		"/tmp/sublime-sftp-browse-1392357891/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392399554/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread_impl.h",
+		"/tmp/sublime-sftp-browse-1392357595/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/cpu_impl.cpp",
+		"/tmp/sublime-sftp-browse-1392345819/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/test_join_1.cpp",
+		"/tmp/sublime-sftp-browse-1392349189/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/thread.cpp",
+		"/tmp/sublime-sftp-browse-1392348411/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/amcgrath.rileynat.taseskie.2/Makefile",
+		"/home/eric/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/eric/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/eric/Desktop/FakebookOracle.java",
+		"/tmp/sublime-sftp-browse-1392176657/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project2/testQuery.sql",
+		"/home/eric/Desktop/levels.py",
+		"/tmp/sublime-sftp-browse-1391033329/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/createTables.sql",
+		"/tmp/sublime-sftp-browse-1391040315/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/dropTables.sql",
+		"/tmp/sublime-sftp-browse-1391036260/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/locations.csv",
+		"/tmp/sublime-sftp-browse-1391041799/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/all.sql",
+		"/tmp/sublime-sftp-browse-1391036101/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/saveToExcel.sql",
+		"/tmp/sublime-sftp-browse-1391033208/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/loadData.sql",
+		"/tmp/sublime-sftp-browse-1391041458/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/copyTables.sql",
+		"/tmp/sublime-sftp-browse-1391036048/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/formatOutput.sql",
+		"/tmp/sublime-sftp-browse-1390878872/umich/afs/umich.edu/user/t/a/taseskie/eecs482/projects/taseskie.1/project1/main.cpp",
+		"/tmp/sublime-sftp-browse-1390859240/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/createTables.sql",
+		"/tmp/sublime-sftp-browse-1390860335/umich/afs/umich.edu/user/t/a/taseskie/eecs484/projects/project1_taseskie_tjchamp/dropTables.sql",
+		"/home/eric/dev/parse/Invoice_Texter.py",
+		"/tmp/sublime-sftp-browse-1389735885/umich/afs/umich.edu/user/t/a/taseskie/eecs482/lec2",
+		"/usr/local/lib/python2.7/dist-packages/twilio/jwt/__init__.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/connection.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/accounts.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/util.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/sip/__init__.pyc",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/sip/domains.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/sip/credential_lists.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/sip/ip_access_control_lists.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/sip/__init__.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/rest/__init__.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/compat/__init__.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio/__init__.py",
+		"/usr/local/lib/python2.7/dist-packages/twilio-3.6.4.egg-info/requires.txt",
+		"/tmp/sublime-sftp-browse-1389628018/umich/afs/umich.edu/user/t/a/taseskie/eecs484/lec2",
+		"/home/eric/.config/sublime-text-2/Packages/SFTP/Default (Linux).sublime-keymap",
+		"/home/eric/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eric/.config/sublime-text-2/Packages/User/sftp_servers/umich",
+		"/tmp/sublime-sftp-browse-1389627980/umich/afs/umich.edu/user/t/a/taseskie/notes",
+		"/home/eric/dev/parse/MasterCustomerList.txt",
+		"/home/eric/dev/parse/send_sms.py",
+		"/home/eric/dev/parse/parse.py",
+		"/home/eric/dev/parse/dist/MasterCustomerList.txt",
+		"/home/eric/dev/parse/Invoice_Texte.py",
+		"/home/eric/dev/API_Junk/untitled"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			"testimonials",
+			"createevent.html",
+			"h2",
+			"{%",
+			"{",
+			"netdna",
+			"admin.py",
+			"DBNAME",
+			"databa",
+			"datab",
+			"name",
+			"db",
+			"database",
+			"tab",
+			"default",
+			"bootstrap",
+			"mouse",
+			"hover",
+			"color",
+			"font color",
+			"featurette",
+			"center",
+			"centred",
+			".js",
+			"/",
+			">\n",
+			"../s",
+			"static",
+			"TEMPLATE_DEBUG",
+			"debug",
+			"Debug",
+			"debug",
+			"DEBUG",
+			"STATICFILES_FINDERS",
+			"import",
+			"site",
+			"p>",
+			"<input type=\"text\" class=\"form-control\" id={{ field.id_for_label }} placeholder={{ field.label }}>",
+			"blank=True",
+			"True",
+			"ta.fiel",
+			"Meta.fiel",
+			".f",
+			"a.m",
+			"el.",
+			".Meta.",
+			"self",
+			"\n",
+			"	",
+			"required",
+			", blank=True",
+			"message",
+			", blank=True",
+			"model",
+			"self",
+			"!= ''",
+			"\"\"",
+			"h1",
+			"h4",
+			"\n",
+			"injection",
+			"forms",
+			"models",
+			"Testimonial",
+			"signup",
+			"font",
+			"services",
+			"signups",
+			"-4",
+			"aboutus",
+			"<p>",
+			"\n",
+			"post",
+			"*args, **kwargs",
+			", re",
+			"id_last_name",
+			"=",
+			"md-4\"",
+			"3",
+			"4",
+			"md",
+			"div",
+			"password",
+			"form",
+			"up",
+			"sign",
+			"createaccount",
+			"=",
+			"EMAIL",
+			"btn",
+			"button",
+			"mpl",
+			"ucontext_t",
+			"context",
+			"kill_context",
+			"impl_ptr",
+			"kill_context",
+			"kill_thread",
+			"test_memoryleaks",
+			"func",
+			"func_wra",
+			"delete",
+			"indent",
+			"home",
+			"user",
+			"user1",
+			".h",
+			"u1",
+			"#|",
+			"tap!",
+			"are",
+			"INFORMATION",
+			"\n",
+			"	",
+			"\n",
+			"	",
+			"\n",
+			"	",
+			"COVER_PHOTO_ID",
+			"\n",
+			"\n	",
+			"USER_ID",
+			"HOMETOWN",
+			"REFERENCES",
+			"HOMETOWN",
+			"USER_INFORMATION",
+			"\nON"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4620,
+								4620
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/event_share/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/mysite/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/event_share/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/templates/create.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1782,
+								1782
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "static/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/event_share/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/event_share/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							],
+							[
+								207,
+								207
+							],
+							[
+								251,
+								251
+							],
+							[
+								298,
+								298
+							],
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "event_app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

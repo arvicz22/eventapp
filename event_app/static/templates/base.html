@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+        <meta charset="utf-8">
+        <title>Event Share!</title>
+        <title></title>
+        <meta name="generator" content="Bootply" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+       <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+        
+        <!--[if lt IE 9]>
+          <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <link rel="shortcut icon" href="/bootstrap/img/favicon.ico">
+        <link rel="apple-touch-icon" href="/bootstrap/img/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/bootstrap/img/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/bootstrap/img/apple-touch-icon-114x114.png">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    </head>
+    
+<!-- HTML code from Bootply.com editor -->
+<!-- CSS code from Bootply.com editor -->
+<link href="/static/css/bootply.css" rel="stylesheet">
+<body>
+        
+<div class="navbar navbar-fixed-top navbar-bold" data-spy="affix" data-offset-top="1000">
+  <div class="container">
+    <div class="navbar-header">
+      <a href='{% url "home" %}' class="navbar-brand">Home</a>
+      <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        <li><a href='{% url "create" %}'>Create Event!</a></li>
+      </ul>
+    </div>
+   </div>
+</div>
+
+<div class="header vert">
+  <div class="container">
+    <h1>Event Share</h1>
+      <p class="lead">A webapp to consolidate all of those awesome food providing infosessions into one place.</p>
+      <div>&nbsp;</div>
+      <a href="#" class="btn btn-default btn-lg">Get Started</a>
+  </div>
+  <p></p>
+</div>
+
+<div id="sec1" class="blurb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        {% block content %}{% endblock %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="featurette" id="sec2">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1>Amazing Features</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-md-offset-2 text-center">
+        <div class="featurette-item">
+          <i class="icon-rocket"></i>
+          <h4>Rocket</h4>
+          <p>Up-up-and-away with this starter template.</p>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="featurette-item">
+          <i class="icon-magnet"></i>
+          <h4>Magnet</h4>
+          <p>For you are a magnet and I am steel.</p>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="featurette-item">
+          <i class="icon-shield"></i>
+          <h4>Shield</h4>
+          <p>Protect yourself. Don't design like it's 1999.</p>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="featurette-item">
+          <i class="icon-pencil"></i>
+          <h4>Scholar</h4>
+          <p>Because lead pencils are pretty smart looking.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </body>
+</html>
